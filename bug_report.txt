@@ -1,0 +1,11 @@
+ID
+Title
+Project
+STR
+Actual result
+Expected result
+Severity
+Priority
+Status
+Attachments
+Author
